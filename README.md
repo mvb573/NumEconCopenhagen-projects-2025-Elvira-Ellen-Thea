@@ -5,7 +5,7 @@
 - Elvira Basse Schougaard
 - Ellen Andrup Kristensen
 
-**This repository contains:***
+**This repository contains:**
 
 1. Data project
 
